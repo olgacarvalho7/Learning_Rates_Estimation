@@ -1,1 +1,2 @@
+.zip filter=lfs diff=lfs merge=lfs -text
 Fuel_Cells[[:space:]]copy.zip filter=lfs diff=lfs merge=lfs -text
