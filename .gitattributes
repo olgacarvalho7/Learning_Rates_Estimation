@@ -3,3 +3,4 @@ Fuel_Cells[[:space:]]copy.zip filter=lfs diff=lfs merge=lfs -text
 BIGCC_CCS.zip filter=lfs diff=lfs merge=lfs -text
 CCGT.zip filter=lfs diff=lfs merge=lfs -text
 Fuel-Cells[[:space:]]copy.zip filter=lfs diff=lfs merge=lfs -text
+BIGCC_max.zip filter=lfs diff=lfs merge=lfs -text
